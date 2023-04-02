@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#b{
+    background-image: url(portada.jpg);
+}
+#columna1{
+    position:absolute;
+    top:30px;
+    left:0px;
+    width:90%;
+    margin-top:10px;
+}
+#columna2{
+    margin-left:50%;
+    margin-right:0%;
+    margin-top:10px;
+}
+.ul1{
+    text-align: center;
+    background-image: url(barra.jfif);
+    height: 40px;
+}
+.menu{
+    font-size: 22px;
+    background: gold;
+    display: inline;
+    padding: 15px;
+    margin-left: 5px;
+}
+section{
+    width: 50%;
+    margin: 15px;
+    border: solid 5px;
+    border-color: darkgoldenrod;
+    border-radius: 10px; 
+}
+section h1{
+    font-size: 45px;
+}
+section img{
+    width: 200px;
+    height: 260;
+    margin-right: 25px;
+    float: right;
+}
+.section{
+    font-size: 40px;
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 1;
+}
+.parrafo{
+    font-size: 30px;
+    font-weight: normal; 
+}
+.estudios{
+    font-size: 35px;
+    margin-left: 35px;
+}
+.estudios1{
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 1;
+}
+.estudios2{
+    font-size: 30px;
+    font-weight: normal;
+}
+.section1{
+    width: 96%;
+    margin: 15px;
+    border: solid 5px;
+    border-color: darkgoldenrod;
+    border-radius: 10px; 
+}
